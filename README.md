@@ -1,7 +1,7 @@
 # DeepCrossAttention PyTorch
 
 <p align="center">
-  <img src="DeepCrossAttention.png" alt="DeepCrossAttention" style="display:block; margin:auto; width:850px;" />
+  <img src="DeepCrossAttention.png" alt="DeepCrossAttention" style="display:block; margin:auto; width:450px;" />
 </p>
 
 PyTorch implementation of DeepCrossAttention.
